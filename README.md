@@ -31,3 +31,7 @@ Ouvrir un terminal dans le dossier du projet
 ##Push vers le repo distant
 
 - ```git push origin master (ou main)```
+
+##Illustration
+
+![Illustration](https://user-images.githubusercontent.com/56133015/112811080-fc1bf580-907b-11eb-8e1e-2dd63788bc3c.jpg)
