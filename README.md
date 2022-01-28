@@ -52,3 +52,9 @@ La branche principale par défaut est appelée ```master```.
 ## Illustration
 
 ![Illustration](https://user-images.githubusercontent.com/56133015/112811080-fc1bf580-907b-11eb-8e1e-2dd63788bc3c.jpg)
+
+## Avancés
+
+### Cloner seulement un dossier d'un repo 
+
+- ```git clone depth 1 url_du_repo_a_cloner nom_dossier
