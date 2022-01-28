@@ -57,4 +57,4 @@ La branche principale par défaut est appelée ```master```.
 
 ### Cloner seulement un dossier d'un repo 
 
-- ```git clone depth 1 url_du_repo_a_cloner nom_dossier
+- ```git clone depth 1 url_du_repo_a_cloner nom_dossier```
