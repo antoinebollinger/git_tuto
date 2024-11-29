@@ -22,6 +22,14 @@ La branche principale par défaut est appelée ```master```.
 
 - ```git checkout nom_de_la_branche```
 
+### Supprimer une branche de travail
+
+Localement:
+-```git branch -d nom_de_la_branche```
+
+Sur le repertoire distant `origin` (Github):
+-```git push origin --delete nom_de_la_branche```
+
 ## Gestion des repos distants
 
 ### Ajout repo distant (généralement nommé origin)
